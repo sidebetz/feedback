@@ -6,6 +6,16 @@ labels: ''
 assignees: ''
 
 ---
+**Environment**
+- [ ] https://sidebetz.ai
+- [ ] https://beta.sidebets.ai
+- [ ] https://dev/sidebetz.ai
+
+**UserDetails / Login details**
+- [ ] OAuth
+- [ ] Email/password
+
+Email:
 
 **Describe the bug**
 A clear and concise description of what the bug is.
