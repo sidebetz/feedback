@@ -6,6 +6,14 @@ labels: ''
 assignees: ''
 
 ---
+**Environment**
+- [ ] https://sidebetz.ai
+- [ ] https://beta.sidebets.ai
+- [ ] https://dev/sidebetz.ai
+
+**UserDetails / Login details**
+- [ ] OAuth
+- [ ] Email/password
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
